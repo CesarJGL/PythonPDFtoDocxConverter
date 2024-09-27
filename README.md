@@ -1,2 +1,2 @@
 # PythonPDFtoDocxConverter
-Python IDE Document Converter Code
+Python IDE Doc Converter Code
